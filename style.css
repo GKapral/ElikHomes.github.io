@@ -1,0 +1,22 @@
+body {
+    background-color: #000;
+    background-image: url("contractor.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.9;
+}
+
+td {
+    vertical-align: top;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+
+.content {
+    background-color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    padding: 30px;
+    border: 1px solid #000;
+}
