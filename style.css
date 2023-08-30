@@ -1,3 +1,14 @@
+
+#logo {
+    float:left; 
+    margin-right: 20px;
+    margin-bottom: 5px;
+}
+
+#logo_img {
+    max-width: 150px;
+}
+
 body {
     background-color: #000;
     background-image: url("contractor.png");
@@ -18,5 +29,6 @@ td {
     margin-right: 10%;
     margin-top: 5%;
     padding: 30px;
-    border: 1px solid #000;
+    border: 3px ridge #000;
+    text-align: left;
 }
