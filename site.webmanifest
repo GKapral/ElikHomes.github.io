@@ -1,0 +1,14 @@
+{
+    "name": "Elik Construction - General Contractor in the Chicago Western Suburbs",
+    "short_name": "Elik Construction",
+    "icons": [
+        {
+            "src": "/favicon.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#fff",
+    "background_color": "#000",
+    "display": "standalone"
+}
